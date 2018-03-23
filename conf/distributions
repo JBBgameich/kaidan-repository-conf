@@ -1,0 +1,9 @@
+Origin: Kaidan
+Label: Kaidan
+Codename: sid
+Suite: unstable
+Architectures: amd64 hurd-i386 source
+Components: main
+Description: Kaidan development builds
+SignWith: 5E32979013A27AE3
+Update: upstream
